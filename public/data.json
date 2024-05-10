@@ -1,0 +1,12 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "data": "next js"
+    },
+    {
+      "id": 2,
+      "data": "react js"
+    }
+  ]
+}
