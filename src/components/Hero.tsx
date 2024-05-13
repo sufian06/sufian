@@ -15,7 +15,7 @@ const Hero = () => {
       <div className="w-full justify-center py-10 bg-dpattern md:mt-[30px] lg:flex lg:h-full lg:items-center lg:py-0">
         <div className="container opacity-100">
           {/* <div className="flex flex-col-reverse md:flex md:flex-row md:justify-between text-gray-100"> */}
-          <div className="mt-12 flex flex-col items-center gap-10 md:mt-0 lg:flex-row lg:gap-28 relative z-50">
+          <div className=" flex flex-col items-center gap-10 md:mt-0 lg:flex-row lg:gap-28 relative z-50">
             <div className="flex-1 p-2">
               <h5 className="text-sky-400 mb-3 text-xl">Hi, I am</h5>
               <div>
