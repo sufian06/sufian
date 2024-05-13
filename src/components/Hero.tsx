@@ -25,11 +25,11 @@ const Hero = () => {
                 </span>
               </div>
               <p className="my-6 text-lg">
-                I build pixel-perfect web applicaton on{" "}
-                <span className="text-orange-400">Javascript</span> &{" "}
-                <span className="text-sky-400">Typescript</span>
-                based in Bangladesh. I am self-motivated{" "}
-                <span className="font-bold capitalize">full-stack</span> web
+                I build pixel-perfect web applicaton on
+                <span className="text-orange-400"> Javascript</span> &
+                <span className="text-sky-400"> Typescript </span>
+                based in Bangladesh. I am self-motivated
+                <span className="font-bold capitalize"> full-stack </span> web
                 developer, seeking to achieve confidence and fame using my
                 potential in the sector of Web Development.
               </p>
