@@ -4,7 +4,7 @@ const Footer = () => {
   const year = new Date().getFullYear();
   return (
     <section className="wrapper border-t border-general bg-footer">
-      <div className="container flex justify-between">
+      <div className="container flex flex-col lg:flex-row justify-between">
         <p>Copyright © {year}. All rights are reserved</p>
         <div className="flex flex-row-reverse gap-2">
           <Link
